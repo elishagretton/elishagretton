@@ -1,4 +1,4 @@
-### Hi, I'm Elisha! 👋
+### Hi, I'm Elisha!👋 Recent Software Engineering Bootcamp Grad with a Masters in Maths.🏆 Passionate about travel, programming, and learning new skills! 🌱 
 
 <!--
 **elishagretton/elishagretton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏆 Masters in Mathematics and Software Engineering Bootcamp Graduate with five months’ professional experience working in recommendation systems at Hardcover and online coding teaching at Ignite Hubs. 
-- 💻 2+ years experience in Python for image classification and mathematical modelling.
-- 🤩 Proficient in Python, C++, SQL, AWS, Databricks, HTML, CSS, R, Linux, and Git.
-- 🌍 Passionate about exploring new places and embracing challenges! 
-Over the past year, I travelled to Spain, the Philippines, Malaysia, Vietnam, Indonesia, and South Korea. Throughout my travels, I collaborated with hospitality businesses, assisting in organising social events, crafting customer-centric social media content, and fostering cultural connections through cooking and dance.
+- 🏆 I have five months’ professional experience working in recommendation systems at Hardcover and online coding teaching at Ignite Hubs. 
+- 💻 I'm proficient in Python, C++, SQL, AWS, Databricks, HTML, CSS, R, Linux, and Git.
+- 🔭 I'm currently working on improvements to my Multinational Retail Data Centralisation and Pinterest Data Pipeline projects, leveraging SQL, Databricks, and AWS mostly.
+- 🤔 I'm hoping to start a new project soon in Django, building a job application helper. Let me know if you want to collaborate!
+- 👩‍💻 Actively pursuing opportunities in Software, AI, or Data Engineering. Please feel free to drop me a message if you have any advice or know of any opportunities in the Technology space!
+- 📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/elishagretton/)
+  
+In my free time, 
+- 🌍 I'm passionate about exploring new places and travel! Over the past year, I travelled and volunteered in the Philippines, Malaysia, Vietnam, Indonesia, and South Korea. 
+- 📕 I love reading. I'm currently reading Days at the Morisaki Bookshop by Satoshi Yagisawa.
+- 🏞️ I love nature and being active!
 
-- 👩‍💻 Actively pursuing opportunities in Software, AI, or Data Engineering. Please feel free to drop me a message or connect if you have any advice or know of any opportunities in the Technology space!
+- 
+
+  
+
