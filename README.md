@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Elisha! 👋
 
 <!--
 **elishagretton/elishagretton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏆 Masters in Mathematics and Software Engineering Bootcamp Graduate with five months’ professional experience working in recommendation systems at Hardcover and online coding teaching at Ignite Hubs. 
+- 💻 2+ years experience in Python for image classification and mathematical modelling.
+- 🤩 Proficient in Python, C++, SQL, AWS, Databricks, HTML, CSS, R, Linux, and Git.
+- 🌍 Passionate about exploring new places and embracing challenges! 
+Over the past year, I travelled to Spain, the Philippines, Malaysia, Vietnam, Indonesia, and South Korea. Throughout my travels, I collaborated with hospitality businesses, assisting in organising social events, crafting customer-centric social media content, and fostering cultural connections through cooking and dance.
+
+- 👩‍💻 Actively pursuing opportunities in Software, AI, or Data Engineering. Please feel free to drop me a message or connect if you have any advice or know of any opportunities in the Technology space!
