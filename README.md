@@ -22,14 +22,13 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on improvements to my Multinational Retail Data Centralisation and Pinterest Data Pipeline projects, leveraging SQL, Databricks, and AWS mostly.
 - 🤔 I'm hoping to start a new project soon in Django, building a job application helper. Let me know if you want to collaborate!
 - 💬 Actively pursuing opportunities in Software, AI, or Data Engineering. 
-- 📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/elishagretton/) to connect!
+- 📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/elishagretton/) to connect.
   
 **In my free time,**
 - 🌍 I'm passionate about exploring new places and travel! Over the past year, I travelled and volunteered in the Philippines, Malaysia, Vietnam, Indonesia, and South Korea. 
-- 📕 I love reading. I'm currently reading Days at the Morisaki Bookshop by Satoshi Yagisawa.
-- 🏞️ I love nature and being active!
+- 📕 I also love reading. I'm currently reading Days at the Morisaki Bookshop by Satoshi Yagisawa.
 
-- 
+
 
   
 
